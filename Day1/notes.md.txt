@@ -1,0 +1,14 @@
+# ✅ Day 1 Notes
+
+- Python & pip checked ✔️
+- VS Code ready ✔️
+- Wrote & ran:
+  - day1_hello.py ✔️
+  - day1_math.py ✔️
+  - day1_strings.py ✔️
+  - day1_input.py ✔️
+  - day1_comments.py ✔️
+  - day1_errors.py ✔️
+- Tested Traceback ✔️
+- Learned how to comment & debug ✔️
+- Next up: Variables & Data Types CRUD
