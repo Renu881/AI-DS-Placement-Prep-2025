@@ -1,0 +1,11 @@
+# ✅ Day 2 Extended Notes
+
+- Variables basics, naming, reassigning ✔️
+- Data type conversions ✔️
+- CRUD on:
+  * Lists: add, insert, pop, loop ✔️
+  * Tuples: immutability, nested ✔️
+  * Sets: uniqueness, union, intersection ✔️
+  * Dicts: keys, values, items, loop ✔️
+- Small practice tasks done
+- Next up: Day 3 — Operators, If-Else, Loops
