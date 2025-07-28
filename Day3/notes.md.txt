@@ -1,0 +1,11 @@
+# 📚 Day 3 Notes — Loops & Conditionals
+
+✔️ `if-elif-else` to handle choices.  
+✔️ `for` loops for lists & ranges.  
+✔️ `while` loops for repeated checks.  
+✔️ `break` stops a loop early.  
+✔️ `continue` skips a loop step.  
+✔️ Nested loops = grids, tables, etc.  
+✔️ Mini tasks done & pushed!
+
+Next: Functions & Exception Handling! 🧩
