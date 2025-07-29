@@ -1,0 +1,10 @@
+# ✅ Day 4 Notes — Functions & Exception Handling
+
+✔️ Defined basic functions  
+✔️ Learned about parameters & arguments  
+✔️ Used return values  
+✔️ Wrote a recursive function  
+✔️ Handled exceptions with try-except  
+✔️ Completed all mini tasks
+
+Next up → File I/O & Modules! 🔥
