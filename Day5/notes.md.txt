@@ -1,0 +1,10 @@
+# ✅ Day 5 Notes — File Handling & Modules
+
+✔️ Read and wrote files (txt, CSV, JSON)  
+✔️ Learned how to handle exceptions with files  
+✔️ Created and used custom Python modules  
+✔️ Completed mini tasks:
+  * Read/Write numbers from/to files
+  * Write Python dict to JSON
+  * Handle file not found errors
+  * Created and used custom functions in modules
