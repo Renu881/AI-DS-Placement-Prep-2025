@@ -1,0 +1,31 @@
+# Day 7 - Practice Tasks
+
+## Word Count:
+- Count words by splitting the string by spaces.
+- Used `split()` and `len()`.
+
+## Palindrome:
+- Check if a string is the same forwards and backwards.
+- Consider case insensitivity and spaces.
+
+## Calculator:
+- Simple calculator to add, subtract, multiply, divide.
+- Validates division by zero.
+
+## Fibonacci:
+- Generating Fibonacci numbers with a simple loop.
+- Swapping values in `a` and `b`.
+
+## Prime Number:
+- Checks if a number is divisible by any number between 2 and itself.
+- Optimized by checking up to the square root of `n`.
+
+## Extra Tasks:
+- Reverse string using slicing.
+- Count vowels by iterating through the string.
+- Factorial using iteration.
+- Find max/min in a list.
+
+## Interview Tips:
+- Practice writing code without external references.
+- Be prepared to explain time complexity and optimization.
