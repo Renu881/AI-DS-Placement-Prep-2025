@@ -1,0 +1,61 @@
+Day 8 Notes — AI-DS-Placement-Prep-2025
+
+## 📌 Topics Covered:
+1. *Functions in Python*
+   - Definition: A block of reusable code that performs a specific task.
+   - Syntax:
+     python
+     def function_name(parameters):
+         # code block
+         return value
+     
+   - Benefits:
+     - Code reusability
+     - Modularity
+     - Easier debugging and testing
+
+2. *Types of Functions*
+   - *Built-in Functions*: print(), len(), type(), range(), etc.
+   - *User-defined Functions*: Functions created by the programmer.
+
+3. *Function Parameters & Arguments*
+   - *Positional arguments*: Order matters.
+   - *Keyword arguments*: Specify parameter names.
+   - *Default arguments*: Assign default values.
+   - *Variable-length arguments*:
+     - *args → Non-keyword variable arguments (tuple)
+     - **kwargs → Keyword variable arguments (dictionary)
+
+4. *Return Statement*
+   - Ends the function execution and optionally returns a value.
+   - Can return multiple values using tuples.
+
+5. *Scope of Variables*
+   - *Local scope*: Variables declared inside the function.
+   - *Global scope*: Variables declared outside any function.
+   - Use global keyword to modify a global variable inside a function.
+
+6. *Lambda Functions*
+   - Small anonymous functions using lambda keyword.
+   - Syntax: lambda arguments: expression
+   - Example:
+     python
+     square = lambda x: x**2
+     print(square(5))  # Output: 25
+     
+
+---
+
+## 📝 Summary:
+- Functions make code *organized, reusable, and cleaner*.
+- Always aim to keep functions *short and single-responsibility*.
+- Use *docstrings (""" """)* to document your functions.
+
+---
+
+## 🎯 Mini Tasks:
+1. Write a function to find the factorial of a number.
+2. Write a function that accepts *args and returns their sum.
+3. Create a lambda function to check if a number is even or odd.
+4. Write a function that reverses a string.
+5. Create a function that takes a list and returns a new list with unique elements only.
